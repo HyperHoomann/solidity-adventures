@@ -1,5 +1,5 @@
 # Solidity by Example
-https://solidity-by-example.org/
+Practising Solidity from the code at https://solidity-by-example.org/
 
 ## Basic intro (40)
 - [x] Hello World  
