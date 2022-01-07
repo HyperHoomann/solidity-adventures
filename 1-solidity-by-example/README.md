@@ -17,16 +17,16 @@ Practising Solidity from the code at https://solidity-by-example.org/
 - [x] Array  
 - [x] Enum  
 - [x] Structs  
-- [ ] Data Locations - Storage, Memory and Calldata  
-- [ ] Function  
-- [ ] View and Pure Functions  
-- [ ] Error  
-- [ ] Function Modifier  
-- [ ] Events  
-- [ ] Constructor  
-- [ ] Inheritance  
-- [ ] Shadowing Inherited State Variables  
-- [ ] Calling Parent Contracts  
+- [x] Data Locations - Storage, Memory and Calldata  
+- [x] Function  
+- [x] View and Pure Functions  
+- [x] Error  
+- [x] Function Modifier  
+- [x] Events  
+- [x] Constructor  
+- [x] Inheritance  
+- [x] Shadowing Inherited State Variables  
+- [x] Calling Parent Contracts  
 - [ ] Visibility  
 - [ ] Interface  
 - [ ] Payable  
