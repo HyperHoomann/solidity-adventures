@@ -22,22 +22,22 @@ https://remix.ethereum.org
 
 ## 3. First contract - get contract balance
 1. first line - opensource license for code  
-    ```
+    ```solidity
     // SPDX-License-Identifier: MIT
     ```
 
 2. second line - solidity compiler version to use  
-    ```
+    ```solidity
     pragma solidity ^0.8.0
     ```
 
 3. `contract` - similar to class in other languages  
 
-```
+    ```solidity
     contract SmartBank {
         ...
     }
-```
+    ```
 
 #### Accepting/Storing money in programs
 > **A class/contract can accept and store money natively. without having to integrate payment gateways (like stripe/razorpay)**
